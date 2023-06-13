@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -t 1 | paste -s -d ''
