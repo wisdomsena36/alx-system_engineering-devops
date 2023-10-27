@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# FizzBuzzes in Bash, baby!
+# This script displays FizzBuzzes or Fizz or Buzz
 i=0
 while [ $((i++)) -lt 100 ]; 
 do
